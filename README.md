@@ -4,4 +4,4 @@ Must have some knowledge of OOP PHP and basic understanding of HTML, jQuery and 
 Simply import the users.sql file
 Change the database credentials in database/db.php
 Run interface.php 
-Questions are welcomed in English, Frecnh
+
